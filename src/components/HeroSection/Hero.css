@@ -107,7 +107,7 @@
 
 .right-h>.btn {
     position: absolute;
-    right: 3rem; top: 2rem;color: black;
+    right: 3rem; top: 2rem;color: rgb(22, 21, 21);
 }
 
 .heart-rate {
@@ -177,6 +177,6 @@
 .calories>div>span {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    color: rgb(243, 76, 16);
+    color: rgb(237, 66, 4);
 }
 
